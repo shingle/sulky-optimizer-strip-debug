@@ -1,0 +1,25 @@
+{
+  "name": "sulky-optimizer-strip-debug",
+  "version": "1.0.0",
+  "description": "remove console, alert, and debugger statements from JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shingle/sulky-optimizer-strip-debug.git"
+  },
+  "keywords": [
+    "strip-debug"
+  ],
+  "author": "YuHui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shingle/sulky-optimizer-strip-debug/issues"
+  },
+  "homepage": "https://github.com/shingle/sulky-optimizer-strip-debug",
+  "dependencies": {
+    "strip-debug": "^1.1.1"
+  }
+}
